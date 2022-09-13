@@ -1,11 +1,11 @@
         h1 {
             text-align: center;
-            color: white;
-            background: black;
+            color: rebeccapurple;
+            background: red;
         p {
         }
             text-align: center;
-            color: black;
+            color: blue;
         }
         img {
             display: block;
@@ -20,7 +20,7 @@ ul {
     font-weight:bold;
 }
 .comprometidos{
-    color: yellow;
+    color: grey;
 }
 .emdia{
     text-align: center;
