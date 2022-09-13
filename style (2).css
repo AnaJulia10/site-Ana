@@ -28,3 +28,15 @@ ul {
 li{
     font-weight:bold
 }                     
+
+#link{
+    color:red
+}
+
+#size{
+    color:aquamarine
+}
+
+#weight{
+    color:blueviolet
+}
