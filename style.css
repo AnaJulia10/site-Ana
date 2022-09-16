@@ -1,7 +1,7 @@
         h1 {
             text-align: center;
-            color: rebeccapurple;
-            background: red;
+            color: rgb(185, 115, 255);
+            background: rgb(91, 32, 121);
         p {
         }
             text-align: center;
@@ -39,4 +39,8 @@ li{
 
 #weight{
     color:blueviolet
+}
+
+#front{
+    color:midnightblue
 }
